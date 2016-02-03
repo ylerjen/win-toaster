@@ -4,7 +4,8 @@
   "description": "\u0016",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "pretest": "echo Run the Unit Tests suit",
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
