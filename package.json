@@ -1,0 +1,25 @@
+{
+  "name": "win-toaster",
+  "version": "1.0.0",
+  "description": "\u0016",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ylerjen/win-toaster.git"
+  },
+  "keywords": [
+    "notifications"
+  ],
+  "author": "yLerjen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ylerjen/win-toaster/issues"
+  },
+  "homepage": "https://github.com/ylerjen/win-toaster#readme",
+  "devDependencies": {
+    "node-notifier": "^4.4.0"
+  }
+}
