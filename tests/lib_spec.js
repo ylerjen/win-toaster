@@ -1,3 +1,5 @@
+var helloWorld = require('../src/lib.js');
+
 describe("The Hello World function", function() {
     
   it("should say hello to the passed name", function() {
