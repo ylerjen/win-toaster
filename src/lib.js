@@ -1,4 +1,4 @@
-function helloWorld (name) {
+export function helloWorld (name) {
     if (!name) {
         name = ' World';
     }
