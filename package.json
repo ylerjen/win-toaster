@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "pretest": "echo Run the Unit Tests suit",
-    "test": "jasmine"
+    "test": "jasmine && node notify",
+    "notify": "node notify.js"
   },
   "repository": {
     "type": "git",
