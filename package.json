@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ylerjen/win-toaster#readme",
   "devDependencies": {
+    "jasmine": "^2.4.1",
     "node-notifier": "^4.4.0"
   }
 }
