@@ -1,6 +1,8 @@
-export function helloWorld (name) {
+function helloWorld (name) {
     if (!name) {
-        name = ' World';
+        name = 'World';
     }
-    return 'hello ' + name;
+    return 'Hello ' + name;
 }
+
+module.exports = helloWorld;
