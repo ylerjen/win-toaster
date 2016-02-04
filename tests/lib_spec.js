@@ -14,4 +14,8 @@ describe("The Hello World function", function() {
     var expected = 'Hello World';
     expect(result).toEqual(expected);
   });
+  
+  it("should fail to show the notification", function() {
+     expect(true).toBe(false); 
+  });
 });
