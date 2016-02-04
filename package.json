@@ -6,7 +6,7 @@
   "scripts": {
     "pretest": "echo Run the Unit Tests suit",
     "test": "jasmine && node notify",
-    "notify": "node notify.js"
+    "notify": "notify -t \"Hi there\" -m \"I just wan't to say hello !\" -s" 
   },
   "repository": {
     "type": "git",
